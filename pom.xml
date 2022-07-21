@@ -12,6 +12,7 @@
     <version>${revision}${changelist}</version>
     <packaging>hpi</packaging>
     <name>EKS Token Plugin</name>
+    <description>EKS Token Plugin</description>
     <url>https://github.com/jenkinsci/${project.artifactId}-plugin</url>
     <licenses>
         <license>
